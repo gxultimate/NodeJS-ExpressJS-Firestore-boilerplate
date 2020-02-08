@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tradetechbackend-cedaf",
+  "private_key_id": "345edd6e78e49abfa182aeded973027a83545357",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCaqJr7wWn4IRsh\n6mVk7gtpXGDmauCOGnj9gq9AueyQmLNAnscfqtpb3WCS4BSUO6LJCoEn2DlatFo6\nluVhbK6LQwr54zS2eOU8sXcidU/8PHyq2oQnF2rfSRRfmoBJP8BlItuB/jgKeopv\nhjbsAl2k+9xui1SFx+GyoeBWL6hYq1RC9IMpvCgjscGcNCS3jlkGLO6Pr/e6j88S\nUU7rB4bIu6lo9x0lMM5wAI8DBs9Hp9xSYPzzYpogdh+pUdibVvFFws0hC+ql7NhS\nt+Qiyo0sJgf4jMfNZxxXqu4u2dE/gedw2BTz+jM7EXcd41pOw8Odqd39Gf5gFeyH\ngQF5j3UlAgMBAAECggEABiIfm1JNSIjPkaXBBaKnEzOVqC2e4CPOnocbOh7lccqM\neUiSrv/QjwoVdV2rk0FWMFDZVGIvzBgQ5/fp+tYbiexLuCM5iO78cE69YcFzPZaM\nfx4RVZeJJne4dh4jbkQ39grO17XkNQ4tBUU2Ul+5pPxT/pJJ9NA7dCEVS3WyYGnD\nLx/yIr324zq9rj2QTCnDbCg12fe/ktkTIedOdjlFY5nOZhtq3lAlmI91WvIlo3H1\niw8hISKC4DMUrnHA2SmE6me1Yk3LN77U22QB+eDZbHdk51vp8aKN7nGYBr1iCKPU\nwZq4DWMCi+BCDwpm+vNcHJFKbVThB3e9rNUwglNxgQKBgQDPQvi+u62saz4g7u+O\nq4z/eLbc9lMek6MCCRDbLrxp/ktdD3Ks7tKzyJQDpec/GtY5HtFllabSl8DtL+eH\neN6CUKZp2BY3tbQvCmP42ZByUmGZmDYVOFqs+54wZxLg9ehG11ZoYr4Uylz6Be+D\n5xDoERUwAOSa9RHeWX08AOLWBQKBgQC/BvbREY5GBOx+y3uxW69waYuKcLjLGzz7\nPAjDkPrfoqArQy0SXnSSKaKHxyhe3fXi7cHOsmFB5hbrmfnNQJM3tO0g/mDQoc+Z\n/kUCcdNwUSqjGQsFK09CpBl//QZlAc6t8+HX5YtRq9Lub9339Wfkt3ylc/QlbYA/\nxFaTYgYsoQKBgQDGrBbOlg6reP1MCl19r/nvJWJ8Om6An9qgZ9pNj+Yx3/2TzewJ\n0sAMb9daC9y3w9zXUjA8pRANTEQ12DaiyHzaA78RNH5PlpCKivY7oylwPIGr/pjR\nDHz21hbTpOoW1AF8bow4cXZtbXFkhO4LzSGKol1h72kzFHm1XqjKLLtDlQKBgHAL\nfamTSof3S1/zqlGVHYop3hcNltZK27HgvKM43m1dzeSSOlWT4Xv5v8M0JZG/TwIT\nwqGiLzmf48G9RrAFOFRsYsn/ann07ve8FG4ipYozkXaosbYOeSb1aZ+QobeNH9UY\nP1eK4/S7e7UvGFrgLlgQ56OEJ6fsWlUMrFs2G7kBAoGAA7xcRD0s3D2UoYrvuw+b\nS0z+0O8ZxIVuCBX3F0NllGBYtEV7OMOfrDQyVZb4fpy+bW2q0yS/dxcsjT7fOr7I\nIaMGjrST7XmsXcYJ9L57Syiv9A99+HDEqG136TjgLFdGRPvfJOhw1hVZfO5lvT2r\n3tqu38MSzSzREExDiqwSN1o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-tvrn5@tradetechbackend-cedaf.iam.gserviceaccount.com",
+  "client_id": "112514650141845405051",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-tvrn5%40tradetechbackend-cedaf.iam.gserviceaccount.com"
+}
