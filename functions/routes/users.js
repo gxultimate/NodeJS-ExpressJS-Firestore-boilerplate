@@ -146,18 +146,31 @@ router.put("/users/:id", (req, res, next)=>{
     //manage the update function for the user id sent
     //get the id of the document to be updated
     let userId = req.params.id; 
-    
+    let request = req.body
     //make the transaction
     let transaction = db.runTransaction( transaction =>{
         return transaction.get(usersCollection).then( doc =>{
            //again check if theres something in the req body
            //remember you need body-parser for this
-            if(req.body.name !== undefined && req.body.email !== undefined){
+            if(req.body.account_username !== undefined && req.body.account_username !== undefined){
             
                 //we pass the data as an object
             transaction.update(usersCollection.doc(userId), {
-                name: req.body.name,
-                email: req.body.email
+                'account_ID' :  request.account_ID,
+                'account_username': request.account_username,
+                'account_password': request.account_password,
+                'account_fName' : request.account_fName,
+                'account_lName' : request.account_lName,
+                'account_mName' : request.account_mName,
+                'account_suffix' : request.account_suffix,
+                'account_address'  : request.account_address,
+                'account_emailAddress' : request.account_emailAddress,
+                'account_contactNo' : request.account_contactNo,
+                'account_status' : request.account_status,
+                'account_dateRegistered' : request.account_dateRegistered,
+                'account_contract' : request.account_contract,
+                'account_birthday': request.account_birthday,
+                'account_accessType' : request.account_accessType
             })
            }else {
                res.json({
